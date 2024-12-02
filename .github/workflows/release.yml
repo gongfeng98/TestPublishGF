@@ -1,0 +1,10 @@
+name: Release Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on:
+  label:
+    types: [created]
+jobs:
+  Release-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 Start Release."
