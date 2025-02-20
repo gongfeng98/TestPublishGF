@@ -16,3 +16,6 @@ FOUNDATION_EXPORT const unsigned char MFrameworkVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <MFramework/PublicHeader.h>
 
 #import "Cat.h"
+
+
+#import "A.h"
