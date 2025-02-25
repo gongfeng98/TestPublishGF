@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
-      - run: echo "🎉 Start Test Release.aaa"
+      - run: echo "🎉 Start Test Release.aaa,bbb"
