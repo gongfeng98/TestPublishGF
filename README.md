@@ -1,2 +1,2 @@
 # TestPublishGF
-Test publish iOS SDK pod
+Test publish iOS SDK pod.
