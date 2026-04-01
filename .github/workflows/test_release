@@ -3,11 +3,9 @@ on:
   push:
     tags:
       - '*'
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out code
-      - run: echo "🎉 Start Test Release."
+      - run: echo "🎉 Start Test Release.aaa"
